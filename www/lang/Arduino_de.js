@@ -2,32 +2,32 @@
 goog.provide ( 'Blockly.Msg.fr');
 goog.require ( 'Blockly.Msg');
 // Electron window
-Blockly.Msg.com1 = "Select USB port";
-Blockly.Msg.com2 = "🔔 Select USB please" ;
-Blockly.Msg.check = "Check...";
-Blockly.Msg.upload = "Upload...";
-Blockly.Msg.error = "🔔 ERROR: Blocks not connected";
-Blockly.Msg.verif = "🔔 Check the code first "
-Blockly.Msg.save = "Save as format";
+Blockly.Msg.com1 = "USB - Port auswählen";
+Blockly.Msg.com2 = "🔔 Bitte USB - Port auswählen" ;
+Blockly.Msg.check = "Prüfe...";
+Blockly.Msg.upload = "Lade hoch...";
+Blockly.Msg.error = "🔔 Fehler: Blöcke sind nicht verbunden!";
+Blockly.Msg.verif = "🔔 Bitte den Quellcode prüfen "
+Blockly.Msg.save = "Quellcode speichern";
 Blockly.Msg.update = "Update";
-Blockly.Msg.new_update = "A new version is available, do you want to download and install it now?" ;
-Blockly.Msg.yes = "yes";
-Blockly.Msg.no = "no";
-Blockly.Msg.uptodate = "💯 Version is up to date!" ;
-Blockly.Msg.download = "Download completed, the application will install and restart ..."
+Blockly.Msg.new_update = "Es gibt eine neue Programmversion, möchtest du die neue Version herunterladen und installieren?" ;
+Blockly.Msg.yes = "ja";
+Blockly.Msg.no = "nein";
+Blockly.Msg.uptodate = "💯 Es ist die aktuellste Version installiert. " ;
+Blockly.Msg.download = "Download abgeschlossen, die Anwendung wird installiert und neu gestartet ..."
 // common to all blocks
 Blockly.Msg.HELPURL = "https://wikifactory.com/+OttoDIY/otto-diy"; // do not translate
-Blockly.Msg.pin = "on pin";
+Blockly.Msg.pin = "auf Pin";
 Blockly.Msg._AT = "at";
-Blockly.Msg.AV = "forward";
-Blockly.Msg.AR = "backward";
+Blockly.Msg.AV = "vorwärts";
+Blockly.Msg.AR = "zurück";
 Blockly.Msg.high = "HIGH"; // do not translate
 Blockly.Msg.low = "LOW"; // do not translate
-Blockly.Msg.right = "right";
-Blockly.Msg.left = "left";
-Blockly.Msg.LetR = "right & left";
-Blockly.Msg.direction = "direction";
-Blockly.Msg.vitesse = "speed ";
+Blockly.Msg.right = "rechts";
+Blockly.Msg.left = "links";
+Blockly.Msg.LetR = "rechts und links";
+Blockly.Msg.direction = "Richtung";
+Blockly.Msg.vitesse = "Geschwindigkeit ";
 // categories (menu)
 Blockly.Msg.CAT_STOCKAGE = "⊞ Storage";
 Blockly.Msg.CAT_numerique = "- Digital";
